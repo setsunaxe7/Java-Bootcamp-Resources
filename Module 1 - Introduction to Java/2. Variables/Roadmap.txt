@@ -1,0 +1,13 @@
+To define variables storing:
+
+int number = 6; //variable to store whole numbers
+
+long population = 78000000000000L; //variable to store large whole numbers
+
+String text = "Hello"; //variables equalling text
+
+char letter = 'a'; //store single characters
+
+double decimal = 5.5; //store decimals
+
+ENDGOAL of this section: Build app that asks someone questions, pick up answer and store in variable
