@@ -1,0 +1,31 @@
+Notes:
+
+***
+Commands in Terminal:
+***
+
+1) javac
+= java compiler, compile java code into bytecode
+EG:
+filename = HelloJava.java, type the following in terminal:
+javac HelloJava.java
+
+Compiled code from javac command goes into filename.class type file
+
+IN VSC: Easy compiler if compiling within selected folder of file. >> javac "PRESS TAB BUTTON"
+will enable autocomplete of (relative) file path.
+** Powershell will add ".\" if in use. REMOVE THE CHARACTERS.
+
+2) java
+= java run/execute command of java files
+EG:
+filename = HelloJava.java
+java HelloJava
+NOTE THAT .java EXTENSION NOT USED in //java vs //javac!
+
+Process:
+0.1) Must be in folder with the java file of interest to execute.
+1) Compile java code (javac <filename>.java)
+2) java executes compiled code from javac (java <filename>)
+3) If java file edited, repeat steps 1) and 2)
+ps) press up arrow to keep reusing code to execute
