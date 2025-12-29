@@ -9,5 +9,8 @@ public class YourInitials {
         System.out.println("    S  A   A");
         System.out.println("S   S  A   A");
         System.out.println(" SSS   A   A");
+
+        // For future: print out in one line (you're being psychotic):
+        // System.out.println(" SSS     A  \nS   S   A A \nS      A   A\n SSS   AAAAA\n    S  A   A\nS   S  A   A\n SSS   A   A");
     }
 }
