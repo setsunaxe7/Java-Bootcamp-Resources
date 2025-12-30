@@ -1,0 +1,13 @@
+Debugging 101
+
+How to visualise the code step by step?
+<<< see the numbers for each line? there's a space to the left
+CLICK THE SPACE TO THE LEFT OF THE NUMBER IN THE JAVA FILE, IT SHOULD SAY ADD A BREAKPOINT
+
+Click on debug in the java file for the function/method, a new terminal will open
+Runtime will stop where breakpoint added
+Continue will move to next line
+
+When Debugging Done:
+In Debugging side panel,
+see bottom right of sidepanel to click remove all breakpoints in the rightmost small icon logo

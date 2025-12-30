@@ -1,0 +1,13 @@
+Data Types
+
+data type // memory (bytes) // range
+int       // 4              // From -2,147,483,648 -> 2,147,483,647
+long      // 8              // From -9,223,372,036,854,775,808 -> 9,223,372,036,854,775,807
+double    // 8              // Decimal can reach 15 significant digits
+String    // Varies         // -
+char      // 1              // -
+
+Process:
+1. Identify type to store the (variable of interest eg bus passengers)
+2. Name variable using lowerCamelCase (name, phoneNumber, dateOfBirth)
+3. Set the variable equal to a value
