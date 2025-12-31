@@ -11,3 +11,7 @@ Process:
 1. Identify type to store the (variable of interest eg bus passengers)
 2. Name variable using lowerCamelCase (name, phoneNumber, dateOfBirth)
 3. Set the variable equal to a value
+
+String is special!
+"" empty text alone = 24 bytes
+More text = more memory

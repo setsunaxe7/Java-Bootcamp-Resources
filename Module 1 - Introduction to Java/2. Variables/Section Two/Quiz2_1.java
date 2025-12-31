@@ -1,4 +1,4 @@
-public class Test {
+public class Quiz2_1 {
     public static void main(String[] args) {
         // Test code can be added here if needed
         int sales = 3;
